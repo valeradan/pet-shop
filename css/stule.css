@@ -1,0 +1,4 @@
+/* change bootstrap styles */
+.basket:hover {
+    color: black !important;
+}
